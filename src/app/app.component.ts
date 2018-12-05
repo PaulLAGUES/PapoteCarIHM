@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'papoteCar';
-}
+  menu = new Array('Rechercher','Proposer un trajet', 'Inscription', 'Connexion');
+
+
+  }
+
